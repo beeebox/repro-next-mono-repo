@@ -1,0 +1,14 @@
+node_modules
+.vercel
+build/
+.env
+certificates/
+.vscode
+.DS_Store
+yarn-error.log
+.idea/
+.envrc*
+*.rdb
+pg_data
+*.sw?
+
